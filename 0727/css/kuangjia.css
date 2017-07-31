@@ -1,0 +1,14 @@
+* {
+				margin: 0px;
+				padding: 0px;
+			}
+			
+			#kuangjia {
+				width: 1200px;
+				height: 800px;
+				border: 1px solid lightgray;
+			}	#caidan {
+				width: 1200px;
+				height: 40px;
+				background-color: #333;
+			}

@@ -1,0 +1,53 @@
+.wei {
+			  width: 1200px; height: 230px;
+			  border: solid lightblue;
+			  position: relative;
+			  }
+					
+				.a1{
+					width: 200px;
+					height: 200px;
+					border: 1px solid lightsalmon;
+					position: absolute;
+					left: 0px;
+					background-color:lightslategray;
+				}
+				.a2{
+					width: 250px;
+					height: 200px;
+					border: 1px solid lightcoral;
+					position: absolute;
+					left: 300px;
+					background-position:center;
+					background-repeat:no-repeat;
+					background: cover;
+					
+					
+				}
+				.a3{
+					width: 250px;
+					height: 200px;
+					border: 1px solid lightcoral;
+					position: absolute;
+					left: 600px;
+					background-position:center;
+					background-repeat:no-repeat;
+						background: cover;
+				}
+				.a4{
+					width: 250px;
+					height: 200px;
+					border: 1px solid lightcoral;
+					position: absolute;
+					left: 900px;
+					background-position:center;
+					background-repeat:no-repeat;
+						background: cover;
+				}
+	
+
+				      
+		
+					
+					
+	
