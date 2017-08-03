@@ -1,0 +1,38 @@
+#faxianmid {
+	height: 100%;
+	flex-grow: 1;
+	border: 1px solid grey;
+	box-sizing: border-box;
+	overflow: scroll;
+}
+::-webkit-scrollbar{
+	display: none;
+}
+
+.jiange {
+	width: 100%;
+	height: 20px;
+	background-color: grey;
+}
+
+.pengyouquan {
+	width: 100%;
+	height: 60px;
+	position: relative;
+}
+
+.tu {
+	width: 60px;
+	height: 60px;
+}
+
+.word {
+	width: 80px;
+	height: 60px;
+	position: absolute;
+	left: 80px;
+	top: 0px;
+	text-align: center;
+	line-height: 60px;
+	font-family: "微软雅黑";
+}

@@ -1,0 +1,158 @@
+#kuang2{
+	/*width: 100%;
+	height: 90%;
+	overflow: scroll;
+	border: 1px solid lawngreen;
+	position: absolute;
+	top: 10%;*/
+	height: 100%;
+	flex-flow: 1;
+	border: 1px solid grey;
+	box-sizing: border-box;
+	overflow:scroll;
+}
+::-webkit-scrollbar{
+	display: none;
+	
+	
+	
+}
+
+#beijing{
+	width: 100%;
+	height: 400px;
+	background-image: url(../img/icon/control/kb.jpg);
+	background-repeat: no-repeat;
+	background-size: cover ;
+	background-position: center;
+	position: relative;
+	
+}
+.touxiang{
+	width: 90px;
+	height: 90px;
+ position:absolute;
+	top: 340px;
+	right: 60px;
+}
+.name{
+	width: 120px;
+	height: 90px;
+	position:absolute;
+	top: 325px;
+	right:160px;
+	text-align: center;
+	line-height: 90px;
+	color: white;
+	
+}
+.shuo1{
+	width: 100%;
+	height: 540px;
+	border-bottom:1px solid darkgrey;
+	position: relative;
+}
+.tou1{
+	width: 60px;
+	height: 60px;
+	position: absolute;
+	top: 40px;
+	left: 20px;
+}
+.beizhu{
+	width: 200px;
+	height: 30px;
+	position: absolute;
+	top: 40px;
+	left: 120px;
+	line-height: 30px;
+	font-family: "微软雅黑";
+	color: blue;
+font-size: medium;
+	
+}
+.xinqing{
+		width: 200px;
+	height: 30px;
+	position: absolute;
+	top: 75px;
+	left: 120px;
+	line-height: 30px;
+	font-family: "微软雅黑";
+	color: #000000;
+	font-size: medium;
+	
+	
+}
+.picture1{
+	width:500px;
+	height: 300px;
+	position: absolute;
+	top: 125px;
+	left: 120px;
+
+	
+}
+.shijian{
+	width: 100px;
+	height: 20px;
+	position: absolute;
+	top: 427px;
+	left: 119px;
+	color: darkgrey;
+	font-size: smaller;
+	
+}
+.huifu{
+	width: 60px;
+	height: 60px;
+	border: 1 px solid red;
+	box-sizing: border-box;
+	position: absolute;
+	top: 422px;
+	right: 0px;
+	
+}
+.dianzan{
+	width: 260px;
+	height: 30px;
+	
+	background-color: grey;
+	opacity: 0.7;
+	position: absolute;
+	top: 458px;
+	left: 118px;
+	position: relative;
+	
+}
+.xin{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	
+}
+.dianzanzi{
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	line-height: 30px;
+	font-size: small;
+	color: blue;
+	font-family: "微软雅黑";
+	position: absolute;
+	left: 30px;
+	
+}
+.shuo2{
+	width: 100%;
+	height: 540px;
+	border-bottom:1px solid darkgrey;
+	position: relative;
+}
+.shuo3{
+	width: 100%;
+	height: 540px;
+	border-bottom:1px solid darkgrey;
+	position: relative;
+}
+
